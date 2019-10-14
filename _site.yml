@@ -1,13 +1,19 @@
 name: "Yay internet!"
 output_dir: "."
+theme: bootstrap.min.css
 navbar:
   title: "Home"
+  left:
+    - text: "Professional Experience"
+      href: professional.html
+    - text: "Volunteer Experience"
+      href: volunteer.html
   right:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<jpb2210@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/jpb2210/
 output:
   html_document
