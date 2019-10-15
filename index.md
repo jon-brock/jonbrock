@@ -1,9 +1,15 @@
 ---
 title: "Jon Brock"
-output: html_document
+output: 
+    html_document:
+        keep_md: true
+        toc: true
+        toc_float: true
+
+
 ---
 
-### EDUCATION
+## EDUCATION
 	
 09/2018 – Present	**COLUMBIA UNIVERSITY MAILMAN SCHOOL OF PUBLIC HEALTH**  
 *Master of Public Health in Epidemiology, Expected May 2020*
@@ -16,13 +22,13 @@ output: html_document
 
 ***
 
-### PROFESSIONAL EXPERIENCE  
+## PROFESSIONAL EXPERIENCE  
 
-##### ICAP AT COLUMBIA UNIVERSITY – HARLEM PREVENTION CENTER
-###### 09/2018 – 03/2019  
-Outreach Worker  
-Conducted community outreach and engagement to disseminate information regarding PrEP  
-Recruited participants for HPTN 083 via social networking mobile apps and at designated venues  
+### ICAP AT COLUMBIA UNIVERSITY – HARLEM PREVENTION CENTER
+#### 09/2018 – 03/2019
+	Outreach Worker
+	•	Conducted community outreach and engagement to disseminate information regarding PrEP
+	•	Recruited participants for HPTN 083 via social networking mobile apps and at designated venues
 	
 #### 07/2015 – 08/2019	SAN FRANCISCO DEPARTMENT OF PUBLIC HEALTH
 #####	HIV Surveillance Summer Research Associate – HIV Epidemiology Section (06/2019 – 08/2019)
